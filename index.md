@@ -1,0 +1,16 @@
+#### name: Isa Vidanes
+#### email: ividanes@ucsd.edu
+#### section: A18
+#### mentor: Sheffield Nolan
+
+**1.** What is the most interesting topic covered in your domain this quarter? 
+I find the anatomy of a "smart contract" and its serviceability on a blockchain most interesting. Creating a smart contract is the main objective we are gearing towards for our Quarter 2 Project, but the idea *behind* a smart contract is what interests me. Smart contracts, essentially, provide a set of rules determined by their code and enforce these rules accordingly when executing a transaction. Operating on a decentralized blockchain, smart contracts allow users to conduct their transactions securely and efficiently by facilitating trustless interactions. Smart contracts are also flexible in the sense that they are entirely customizable to meet different business and application needs.   
+
+**2.** Describe a potential investigation you would like to pursue for your Quarter 2 Project.
+Given the objective -- to create a decentrailized escrow smart contract via Ethereum --  we were assigned in our section for the Quarter 2 Project, I would like to potentially explore other ideas or expand on this set project goal. Another approach to take within the smart contract space that would be just as beneficial as an escrow service is creating a program for supply chain management. This is a higher-level concept and encompassses the escrow service under one of its fields. A smart contract designed for this matter would be used for record keeping, automatic payments, supplier/buyer transactions, real-time tracking of shipments/deliveries, and escrow services. Deploying a smart contract for this type of situation would allow for a more streamline and secure process.
+
+**3.** What is a potential change you'd make to the approach taken in your current Quarter 1 Project?
+With the current state of our Quarter 1 Project, I expect to have an almost-finalized version of the code we will be submitting for our Quarter 2 Project. I think a change that I would find useful in the approach we've taken would be to create smart contracts of lower-level, yet real-world concepts. We have covered simple smart contract applications, such as simply printing an output or counting the amount of times a transaction has gone through. I think it would be more beneficial to create a smart contract for an escrow service as well, but with a different set of regulations. 
+
+**4.** What other techniques would you be interested in using in your project?
+We will be writing the application on the Ethereum blockchain using Solidity, a programming language designed for smart contracts. I would be interested in checking out other programming languages, such as *Vyper* which is supposedly more accessible in its syntax and readability compared to Solidity. Through the assigned readings, we also learned about how to test smart contracts. There are different methods for different situations and I would be interested in trying all of these out to familiarize myself further with smart contracts. Although not a requirement for our domain project, I would also like to incorporate a time mechanism that would set a timeframe for the escrow to be executed. This would prevent funds from being held for longer than necessary. 
